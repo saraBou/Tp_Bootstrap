@@ -4,8 +4,41 @@
 .carousel-inner {
     height:400px ;
 }
-.img-circle{
+.logo-circle{
     height:70px ;
     width: 70px;
 
+
+}
+.img-circle{
+    height:200px ;
+    width: 200px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    width: 600px;
+    height: 200px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    width: 600px;
+    height: 200px;
+}
+
+.gmap_iframe {
+    width: 600px !important;
+    height: 200px !important;
+}
+
+.contact-info {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.main-card-img {
+    max-width: 18rem;
 }

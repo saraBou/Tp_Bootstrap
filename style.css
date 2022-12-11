@@ -40,5 +40,11 @@
 }
 
 .main-card-img {
-    max-width: 18rem;
+    width: 18rem;
+}
+
+.main-card{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
